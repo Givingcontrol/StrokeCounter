@@ -12,6 +12,7 @@
  181115: Splitting to several files 
  181117: Adding sleep mode on pin
  181118: Clean-up and LIVE CODE
+ Renaming to StrokeCounter and addin it to github
 */
 #include <Arduino.h>
 #include <U8g2lib.h>
